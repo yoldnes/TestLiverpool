@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestLiverpool</string>
+    <string name="search">Search</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="menor_precio">Menor precio</string>
+    <string name="mayor_precio">Mayor precio</string>
+</resources>
